@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Omkar Chauhan\\source\\repos\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA17D7D1-0F20-41A4-91B5-C7507E229E76}|jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC.csproj|c:\\users\\omkar chauhan\\source\\repos\\jquery_ajax_crud_asp.net_core_mvc\\jquery_ajax_crud_asp.net_core_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA17D7D1-0F20-41A4-91B5-C7507E229E76}|jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC.csproj|solutionrelative:jquery_ajax_crud_asp.net_core_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA17D7D1-0F20-41A4-91B5-C7507E229E76}|jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC.csproj|c:\\users\\omkar chauhan\\source\\repos\\jquery_ajax_crud_asp.net_core_mvc\\jquery_ajax_crud_asp.net_core_mvc\\data\\transactiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA17D7D1-0F20-41A4-91B5-C7507E229E76}|jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC.csproj|solutionrelative:jquery_ajax_crud_asp.net_core_mvc\\data\\transactiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA17D7D1-0F20-41A4-91B5-C7507E229E76}|jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC.csproj|c:\\users\\omkar chauhan\\source\\repos\\jquery_ajax_crud_asp.net_core_mvc\\jquery_ajax_crud_asp.net_core_mvc\\controllers\\transactionmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA17D7D1-0F20-41A4-91B5-C7507E229E76}|jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC.csproj|solutionrelative:jquery_ajax_crud_asp.net_core_mvc\\controllers\\transactionmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA17D7D1-0F20-41A4-91B5-C7507E229E76}|jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC.csproj|c:\\users\\omkar chauhan\\source\\repos\\jquery_ajax_crud_asp.net_core_mvc\\jquery_ajax_crud_asp.net_core_mvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EA17D7D1-0F20-41A4-91B5-C7507E229E76}|jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC.csproj|solutionrelative:jquery_ajax_crud_asp.net_core_mvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA17D7D1-0F20-41A4-91B5-C7507E229E76}|jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC.csproj|c:\\users\\omkar chauhan\\source\\repos\\jquery_ajax_crud_asp.net_core_mvc\\jquery_ajax_crud_asp.net_core_mvc\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA17D7D1-0F20-41A4-91B5-C7507E229E76}|jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC.csproj|solutionrelative:jquery_ajax_crud_asp.net_core_mvc\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA17D7D1-0F20-41A4-91B5-C7507E229E76}|jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC.csproj|c:\\users\\omkar chauhan\\source\\repos\\jquery_ajax_crud_asp.net_core_mvc\\jquery_ajax_crud_asp.net_core_mvc\\views\\transactionmodels\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA17D7D1-0F20-41A4-91B5-C7507E229E76}|jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC.csproj|solutionrelative:jquery_ajax_crud_asp.net_core_mvc\\views\\transactionmodels\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA17D7D1-0F20-41A4-91B5-C7507E229E76}|jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC.csproj|c:\\users\\omkar chauhan\\source\\repos\\jquery_ajax_crud_asp.net_core_mvc\\jquery_ajax_crud_asp.net_core_mvc\\views\\transactionmodels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA17D7D1-0F20-41A4-91B5-C7507E229E76}|jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC.csproj|solutionrelative:jquery_ajax_crud_asp.net_core_mvc\\views\\transactionmodels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA17D7D1-0F20-41A4-91B5-C7507E229E76}|jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC.csproj|c:\\users\\omkar chauhan\\source\\repos\\jquery_ajax_crud_asp.net_core_mvc\\jquery_ajax_crud_asp.net_core_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA17D7D1-0F20-41A4-91B5-C7507E229E76}|jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC.csproj|solutionrelative:jquery_ajax_crud_asp.net_core_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA17D7D1-0F20-41A4-91B5-C7507E229E76}|jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC.csproj|c:\\users\\omkar chauhan\\source\\repos\\jquery_ajax_crud_asp.net_core_mvc\\jquery_ajax_crud_asp.net_core_mvc\\views\\transactionmodels\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA17D7D1-0F20-41A4-91B5-C7507E229E76}|jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC.csproj|solutionrelative:jquery_ajax_crud_asp.net_core_mvc\\views\\transactionmodels\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Omkar Chauhan\\source\\repos\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Omkar Chauhan\\source\\repos\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\appsettings.json",
+              "RelativeToolTip": "jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T08:04:27.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Omkar Chauhan\\source\\repos\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Data\\TransactionDbContext.cs",
+              "RelativeDocumentMoniker": "jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Data\\TransactionDbContext.cs",
+              "ToolTip": "C:\\Users\\Omkar Chauhan\\source\\repos\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Data\\TransactionDbContext.cs",
+              "RelativeToolTip": "jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Data\\TransactionDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T07:45:51.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Omkar Chauhan\\source\\repos\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Helper.cs",
+              "RelativeDocumentMoniker": "jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Helper.cs",
+              "ToolTip": "C:\\Users\\Omkar Chauhan\\source\\repos\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Helper.cs",
+              "RelativeToolTip": "jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Helper.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T07:30:55.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\Omkar Chauhan\\source\\repos\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Controllers\\TransactionModelsController.cs",
+              "RelativeDocumentMoniker": "jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Controllers\\TransactionModelsController.cs",
+              "ToolTip": "C:\\Users\\Omkar Chauhan\\source\\repos\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Controllers\\TransactionModelsController.cs",
+              "RelativeToolTip": "jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Controllers\\TransactionModelsController.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAkwN4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T07:29:02.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omkar Chauhan\\source\\repos\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Views\\TransactionModels\\Delete.cshtml",
+              "RelativeDocumentMoniker": "jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Views\\TransactionModels\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Omkar Chauhan\\source\\repos\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Views\\TransactionModels\\Delete.cshtml",
+              "RelativeToolTip": "jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Views\\TransactionModels\\Delete.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T07:28:12.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omkar Chauhan\\source\\repos\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Views\\TransactionModels\\Index.cshtml",
+              "RelativeDocumentMoniker": "jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Views\\TransactionModels\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Omkar Chauhan\\source\\repos\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Views\\TransactionModels\\Index.cshtml",
+              "RelativeToolTip": "jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Views\\TransactionModels\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T07:21:50.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddOrEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omkar Chauhan\\source\\repos\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Views\\TransactionModels\\AddOrEdit.cshtml",
+              "RelativeDocumentMoniker": "jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Views\\TransactionModels\\AddOrEdit.cshtml",
+              "ToolTip": "C:\\Users\\Omkar Chauhan\\source\\repos\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Views\\TransactionModels\\AddOrEdit.cshtml",
+              "RelativeToolTip": "jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Views\\TransactionModels\\AddOrEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T07:21:30.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Omkar Chauhan\\source\\repos\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Omkar Chauhan\\source\\repos\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAwwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-23T07:19:41.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omkar Chauhan\\source\\repos\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Omkar Chauhan\\source\\repos\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "jQuery_Ajax_CRUD_ASP.NET_Core_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T07:18:21.131Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
